@@ -39,13 +39,16 @@ cd movie_finder
    Você pode utilizar programas como Postman para testar a conexão entre a API
    
    4.1. Baixe e instale o Postman no link https://www.postman.com
+   
    4.2. Abra o Postman e aperte CTRL + T ou clique em Send an API request
+   
    4.3. coloque a URL https://api.themoviedb.org/3/search/movie?query=sonic&language=pt-BR
+   
    4.4. Clique em Authorization, vá em Auth Type, selecione Bearer Token e coloque seu token
 
    Se tudo der certo, será retornado um Json contendo vários filmes relacionados ao Sonic, em português. Para modificar isso você pode ir até a URL e modificar a query (filme) e language (tradução de retorno)
 
-5. Rode o programa
+6. Rode o programa
 ```sh
 flutter run
 ```
