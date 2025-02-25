@@ -52,3 +52,6 @@ cd movie_finder
 ```sh
 flutter run
 ```
+
+## Docs de Progressos de interface
+ > https://docs.google.com/document/d/1465AOzQM7U7R_J8mtYhsEpSJF57C9lS_JDMjn8vY6_E/edit?tab=t.0
